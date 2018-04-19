@@ -1,0 +1,9 @@
+/bin/
+/Screenshots/
+/Reports/
+/target/
+/test-output/
+.git
+.settings
+.classpath
+.project
